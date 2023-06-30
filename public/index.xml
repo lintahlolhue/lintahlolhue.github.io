@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ailun on Loon</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Ailun on Loon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multivariable Calculus</title>
+      <link>http://example.org/topics/multivar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/topics/multivar/</guid>
+      <description>aight, this is calc iii , the study of change but in 3D
+Let&#39;s see what your ass is gonna be lookin forward to:
+Main Topics Description 3D Functions take two inputs in and spit one output out, i.e. $\color{cyan} z = f(x,y)$ aka $\color{cyan} \mbb{R}^2 \to \mbb{R}$ 3D Derivatives $\Large \c{lime} \deriv{x}$ but in 3D, i.e. $\color{lime} \nabla f(x,y)$ 3D Integration volume!, i.e. $\Large \color{yellow} \iiint\limits_{R} dV$, so with this new tool we can finally answer the age old question of how fat yo mama truly is Vector Fields $ \color{orange} \mbb{R}^3 \to \mbb{R}^3$ functions, i.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>http://example.org/multivar/prologue/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/multivar/prologue/history/</guid>
+      <description>alright, so who&#39;s to blame for making you study this bloody subject?
+You know it, isuck newton,
+They say Isaac Newton died a virgin. That means you, my dear reader, have something over one of the greatest geniuses of all time.
+You&#39;re still alive. Calculus so anyway the story goes, a plague (think covid-19) hits Cambridge in 1666 and Newton self quarantines, and in that time, develops the foundations of Calculus.</description>
+    </item>
+    
+    <item>
+      <title>Prerequisites</title>
+      <link>http://example.org/multivar/prologue/prereqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/multivar/prologue/prereqs/</guid>
+      <description>okay, you&#39;re here cuz u wanna know what the fuck u gotta know before reading this mastershitpiece
+Vectors (and some matrices) I mean, its just a bunch of fuckin numbers collected together, $$\Large \color{pink} \vecD{2}{3}$$see? Some familiarity with matrices will be needed, but really I recommend you understand what a matrix is doing behind the hood (cough cough linear transformations)
+In any case, check out
+at the very least, it&#39;s an enjoyable watch</description>
+    </item>
+    
+    <item>
+      <title>Vector products</title>
+      <link>http://example.org/multivar/chapter-1/vprod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/multivar/chapter-1/vprod/</guid>
+      <description>okay sugga, so you know how you can multiply two numbers together? well, its kinda nice having that also be defined for vectors, so let&#39;s go ahead and do that!
+but how...?
+well, mathematicians decided to do this in two ways, the scalar product (dot product) and the vector product (cross product). Unsurprisingly, the dot product takes in two vectors and spits out a number (yes, a NUMBER, a laymans term for scalar) while the cross product takes in two vectors and spits out another vector with special properties (as we shall see)</description>
+    </item>
+    
+    <item>
+      <title>Path</title>
+      <link>http://example.org/multivar/chapter-2/paths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/multivar/chapter-2/paths/</guid>
+      <description>hi
+Current Subsection: Chapter 2: Paths
+Pages in Current Subsection: Path - http://example.org/multivar/chapter-2/paths/ Previous Subsection: Search Function
+Next Subsection: Chapter 2: Paths
+Path - http://example.org/multivar/chapter-2/paths/ </description>
+    </item>
+    
+    <item>
+      <title>Search Function</title>
+      <link>http://example.org/multivar/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/multivar/search/</guid>
+      <description>Firstly, ensure you have these lines inside your config.toml file
+1[outputs] 2 home = [&amp;#34;HTML&amp;#34;, &amp;#34;RSS&amp;#34;,&amp;#34;JSON&amp;#34;] Compose implements Fuse js or Algolia to enable search functionality. By default Fuse is applied. Algolia can be enabled by adding this settings to config/_default/params.toml file
+1# search 2[search] 3on = true 4global = false 5[search.algolia] 6enable = false # if false search will default to fusejs 7id = &amp;#34;Q40WQQX84U&amp;#34; # Application ID 8index = &amp;#34;compose&amp;#34; # Index name 9key = &amp;#34;da87401a458102ec6bbd6cc5e5cf8d95&amp;#34; # Search-Only API Key Both search engines will display results using the same UI.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://example.org/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://example.org/blog/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/creating-a-new-theme/</guid>
+      <description>Introduction $$x^2$$ This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
+We&#39;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://example.org/blog/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://example.org/blog/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>http://example.org/blog/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://example.org/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

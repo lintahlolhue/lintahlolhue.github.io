@@ -1,0 +1,20 @@
+#  menu items
+[[main]]
+  name = "VENT"
+  weight = 4
+  url = "blog/"
+
+[[main]]
+  name = "Notes"
+  weight = 1
+  url = "topics/"
+
+[[main]]
+  name = "fucking Test function i forgot to remove"
+  weight = 2
+  url = "https://www.linkedin.com/in/ATAR995snowTEARFOXhu/"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 3
+#   url = "blog/"

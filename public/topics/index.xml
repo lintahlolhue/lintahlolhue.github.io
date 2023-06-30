@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilkommen, Fucker on Loon</title>
+    <link>http://example.org/topics/</link>
+    <description>Recent content in Wilkommen, Fucker on Loon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multivariable Calculus</title>
+      <link>http://example.org/topics/multivar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/topics/multivar/</guid>
+      <description>aight, this is calc iii , the study of change but in 3D
+Let&#39;s see what your ass is gonna be lookin forward to:
+Main Topics Description 3D Functions take two inputs in and spit one output out, i.e. $\color{cyan} z = f(x,y)$ aka $\color{cyan} \mbb{R}^2 \to \mbb{R}$ 3D Derivatives $\Large \c{lime} \deriv{x}$ but in 3D, i.e. $\color{lime} \nabla f(x,y)$ 3D Integration volume!, i.e. $\Large \color{yellow} \iiint\limits_{R} dV$, so with this new tool we can finally answer the age old question of how fat yo mama truly is Vector Fields $ \color{orange} \mbb{R}^3 \to \mbb{R}^3$ functions, i.</description>
+    </item>
+    
+  </channel>
+</rss>
