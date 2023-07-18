@@ -41,7 +41,6 @@ function pickModePicture(mode) {
 
 function setUserColorMode(mode = false) {
   const is_dark_mode = currentMode() == dark;
-  alert(is_dark_mode)
   const stored_mode = bank.getItem(storageKey);
   const sys_mode = systemMode();
   if(stored_mode) {
