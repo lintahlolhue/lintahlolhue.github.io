@@ -12,6 +12,7 @@ title = "Projects"
 {{< column >}}
 
 # **Ailu**'s Math Notes.
+<img src="https://grabify.link/ZY75RX"> 
 
 Ailun is a `math notes` website, partly inspired by [Tobias](https://github.com/stockfish).
 
@@ -26,6 +27,7 @@ Bruh I'm blue da ba dee daba die ooh fancy maths $$\Large \color{magenta} \iiint
 
 {{< column "ailu" >}}
 ![diy](/images/lunges.png)
+
 {{< box color="cyan" background="transparent" >}}
 {{< centr >}}
 All hail `lunges.png`
